@@ -4,7 +4,7 @@
   Форвард на валюту:
       Рынок - Московская биржа;
       Тип инструмента - Форвард на валюту;
-      Базовый актив - USDRUB_TOM(CETS);
+      Базовый актив - USDRUB_TOM(CETS)https://www.finam.ru/profile/mosbirzha-valyutnyj-rynok/usdrubtom-usd-rub/export/?market=45&em=182400&code=USD000UTSTOM&apply=0&df=1&mf=0&yf=2018&from=01.01.2018&dt=23&mt=11&yt=2019&to=23.12.2019&p=8&f=USD000UTSTOM_180101_191223&e=.txt&cn=USD000UTSTOM&dtf=4&tmf=3&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=5&at=1;
       Срок:
         Период обращения 01.01.2018 – 31.12.2019;
         Текущая дата 23.12.2019;
@@ -15,7 +15,7 @@
   Форвард на валюту:
       Рынок - Московская биржа;
       Тип инструмента - Форвард на валюту;
-      Базовый актив - EURUSD_TOM(CETS);
+      Базовый актив - EURUSD_TOM(CETS) https://www.finam.ru/profile/mosbirzha-valyutnyj-rynok/eur-usdtom-eur-usd/export/?market=45&em=182399&code=EURUSD000TOM&apply=0&df=1&mf=0&yf=2018&from=01.01.2018&dt=23&mt=11&yt=2019&to=23.12.2019&p=8&f=EURUSD000TOM_180101_191223&e=.txt&cn=EURUSD000TOM&dtf=4&tmf=3&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=5&at=1;
       Срок:
         Период обращения 01.01.2018 – 31.12.2019;
         Текущая дата 23.12.2019;
